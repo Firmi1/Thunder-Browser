@@ -1,17 +1,4 @@
-# @Deprecated
-## This repo is not being maintained any more. Please use [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) instead.
-
-# Thunder Browser [![Build Status](https://travis-ci.org/anthonycr/Thunder-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Thunder-Browser)
-#### Speed, Simplicity, Security
-#### A Traditional Browsing Experience
-![](ic_launcher_small.png)
-#### Download
-* [Download APK from here](https://github.com/anthonycr/Thunder-Browser/releases)
-
-* Download from Google Play (Not available just yet)
-
-
-#### Features
+## Features
 * Speed of Lightning Browser with a more traditional experience
 
 * Bookmarks
